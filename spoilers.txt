@@ -1,4 +1,4 @@
-<span id="k"><h1><center>Spoilers</center></h1></span>
+<span id="k"><h1><center>spoilers</center></h1></span>
 <span id="a">spoilers@ctf</span>:<span id="b">~</span><span id="c">$</span> cd Spoilers/
 <span id="a">spoilers@ctf</span>:<span id="b">~</span><span id="c">$</span> ls
 about.txt  team.txt  contact.txt
