@@ -11,7 +11,7 @@ We actively participate in online CTF competitions.
 
 You can browse our recently participated events and rankings on <a href="https://ctftime.org/team/80844">CTFtime</a>.
 
-We also publish writeups on CTF challenges <a href="">here</a>.
+We also publish writeups on CTF challenges <a href="https://sp0il3rs.github.io/write-ups/">here</a>.
 
 We are a group of cybersecurity enthusiasts interested in various areas including Web Security, Malware Analysis & Reverse Engineering, Network Security, Cryptography, IoT security, and etc. 
 
