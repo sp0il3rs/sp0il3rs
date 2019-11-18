@@ -3,7 +3,7 @@
 <span id="a">spoilers@ctf</span>:<span id="b">~</span><span id="c">$</span> ls
 about.txt  team.txt  contact.txt
 <span id="a">spoilers@ctf</span>:<span id="b">~</span><span id="c">$</span> cat about.txt
-<h3><span id="k">About</span></h3>Spoilers is CTF team from India and Vietnam founded in 2019.
+<h3><span id="k">About</span></h3>Spoilers is CTF team from India founded in 2019.
 
 Most of our current members are qualified cyber security experts and students.
 
@@ -21,7 +21,6 @@ Besides our own research, all of us enjoy playing CTF because we believe it is a
 <h3><span id="k">Team</span></h3>
 pvr &copy;
 ram_joker V&copy;
-Akuma
 praneeth
 CursedFlash
 Thirumal
