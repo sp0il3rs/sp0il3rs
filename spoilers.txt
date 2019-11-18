@@ -20,10 +20,10 @@ Besides our own research, all of us enjoy playing CTF because we believe it is a
 <span id="a">spoilers@ctf</span>:<span id="b">~</span><span id="c">$</span> cat team.txt
 <h3><span id="k">Team</span></h3>
 pvr &copy;
-ram_joker V&copy;
 praneeth
 CursedFlash
 Thirumal
+Ram
 
 
 <span id="a">spoilers@ctf</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
