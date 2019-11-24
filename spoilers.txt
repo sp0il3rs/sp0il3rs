@@ -19,7 +19,7 @@ Besides our own research, all of us enjoy playing CTF because we believe it is a
 
 <span id="a">spoilers@ctf</span>:<span id="b">~</span><span id="c">$</span> cat team.txt
 <h3><span id="k">Team</span></h3>
-pvr &copy; <img src="https://tryhackme-badges.s3.amazonaws.com/mrpvr.png" alt="TryHackMe">
+pvr &copy; <script src="https://tryhackme.com/badge/4648"></script>
 praneeth
 CursedFlash
 Thirumal
